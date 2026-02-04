@@ -215,10 +215,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Orbital animations inspired by space-themed interfaces
 - Color palette optimized for dark mode aesthetics
 
-## 📧 Contact
-
-For questions or support, please contact: support@invisia.io
-
 ---
 
-Made with ❤️ by Invisia Team
+Made with ❤️ by Aditya
